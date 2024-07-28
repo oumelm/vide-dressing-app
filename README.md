@@ -5,6 +5,7 @@ Vide-Dressing App
  (Optional: Include a logo if available)
 
 Overview
+
 Vide-Dressing is a mobile application designed to facilitate the resale of high-quality pre-owned clothing. Our platform connects sellers with buyers, promoting sustainable fashion by extending the life cycle of garments.
 
 Features
@@ -21,6 +22,7 @@ Notifications: Users receive updates on their listings, purchases, and more.
 
 
 Technologies Used
+
 Front-end: React Native
 
 Back-end: Django
